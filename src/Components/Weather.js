@@ -1,9 +1,7 @@
 
-function App (){
+function Weather(){
     return(
         <>
         </>
     )
 }
-
-export default App
